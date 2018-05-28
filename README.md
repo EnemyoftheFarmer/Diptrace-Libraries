@@ -1,3 +1,7 @@
 # Diptrace Libraries
-Linear-
+Linear Technologies-
 LTC4015
+LTC4013
+
+Vishay-
+
